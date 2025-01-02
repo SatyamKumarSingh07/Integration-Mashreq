@@ -21,10 +21,7 @@ const Integration = () => {
               See More
             </Link>
           </div>
-
-          {/* Center Space for Image */}
           <div className="w-full md:w-1/4 flex justify-center">
-            {/* Placeholder for image */}
             <img
               src="/Integration.jpeg"
               alt="Integration"
