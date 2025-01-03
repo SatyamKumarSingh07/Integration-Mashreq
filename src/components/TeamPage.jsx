@@ -16,7 +16,7 @@ const TeamPage = () => {
       <div className="max-w-7xl mx-auto px-40 py-12">
         <div className="bg-red-200 rounded-xl shadow-lg p-8">
           <img
-            src="/fino.webp"
+            src="/fin.webp"
             alt="Integration Team Structure"
             className="w-full h-auto rounded-lg"
           />

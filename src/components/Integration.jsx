@@ -16,7 +16,7 @@ const Integration = () => {
             </p>
             <Link
               to="/about"
-              className="inline-block px-6 py-2 bg-orange-900 text-white rounded-lg hover:bg-orange-700 transition-colors"
+              className="inline-block px-6 py-2 bg-orange-900 text-white rounded-lg hover:bg-orange-700 transition-colors hover:scale-110"
             >
               See More
             </Link>
@@ -25,7 +25,7 @@ const Integration = () => {
             <img
               src="/Integration.jpeg"
               alt="Integration"
-              className="rounded-2xl shadow-lg"
+              className="rounded-xl shadow-lg"
             />
           </div>
 
@@ -39,7 +39,7 @@ const Integration = () => {
             </p>
             <Link
               to="/team"
-              className="inline-block px-6 py-2 bg-orange-900 text-white rounded-lg hover:bg-orange-700 transition-colors"
+              className="inline-block px-6 py-2 bg-orange-900 text-white rounded-lg hover:bg-orange-700 transition-colors hover:scale-110"
             >
               View Team
             </Link>

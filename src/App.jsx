@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Integration from './components/Integration';
 import AboutIntegration from './components/AboutIntegration';
 import TeamPage from './components/Teampage';
+import Products from './components/Products';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
           <Route path="/" element={<Integration/>}/>
           <Route path="/about" element={<AboutIntegration />} />
           <Route path="/team" element={<TeamPage/>} />
+          <Route path="/products" element={<Products/>}/>
           {/* <Route path="/support" element={<div>Support Groups Page</div>} />
           <Route path="/applications" element={<div>Our Products Page</div>} />
           <Route path="/initiative" element={<div>Future Endeavors Page</div>} />

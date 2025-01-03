@@ -45,7 +45,7 @@ const Header = () => {
                         Support Groups
                     </Link>
                     <Link
-                        to='/applications'
+                        to='/products'
                         className='block text-sm px-4 py-2 rounded-lg shadow bg-orange-900 hover:bg-orange-600 text-white'
                     >
                         Our Products
